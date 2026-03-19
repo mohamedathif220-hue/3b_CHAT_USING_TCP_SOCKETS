@@ -34,7 +34,9 @@ while True:
     print("Server > ",s.recv(1024).decode())
 ```
 ## OUPUT
+server:
 <img width="1047" height="181" alt="Screenshot 2026-03-19 154833" src="https://github.com/user-attachments/assets/26c66160-087a-4655-90eb-7a0bddacf766" />
+client:
 <img width="1043" height="193" alt="Screenshot 2026-03-19 154845" src="https://github.com/user-attachments/assets/289b46e8-e557-427a-a6ce-cf9ec4b5114d" />
 
 
